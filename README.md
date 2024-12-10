@@ -1,6 +1,6 @@
 # Axsos Academy Java Assignments
 
-Welcome to the AXSOS Academy Java Assignments repository! Here you'll find all the Java assignments completed during my time at AXSOS Academy. This repository serves as a portfolio of my learning and progress in mastering Java programming.
+Welcome to the Axsos Academy Java Assignments repository! Here you'll find all the Java assignments completed during my time at Axsos Academy. This repository serves as a portfolio of my learning and progress in mastering Java programming.
 
 ## Introduction
 
