@@ -4,6 +4,7 @@ public class TestCafe {
     public static void main(String[] args) {
         
         CafeUtil myCafe = new CafeUtil();
+        CafeUtil secondCafe = new CafeUtil();
         
         /* ============ App Test Cases ============= */
     

@@ -1,14 +1,12 @@
 import java.util.ArrayList;
 
-
-
 public class CafeUtil {
-    public int getStreakGoal(){
-    int total = 0;
-            for (int i = 1; i <= 10; i++) {
-                total += i;
-            }
-            return total;
+    public int getStreakGoal() {
+        int total = 0;
+        for (int i = 1; i <= 10; i++) {
+            total += i;
+        }
+        return total;
     }
 
     public double getOrderTotal(double[] prices) {
@@ -20,8 +18,8 @@ public class CafeUtil {
     }
 
     public void displayMenu(ArrayList<String> menuItems) {
-        for( int i = 0; i< menuItems.size(); i++) {
-            System.out.println(i + " " +  menuItems.get(i));
+        for (int i = 0; i < menuItems.size(); i++) {
+            System.out.println(i + " " + menuItems.get(i));
         }
     }
 
